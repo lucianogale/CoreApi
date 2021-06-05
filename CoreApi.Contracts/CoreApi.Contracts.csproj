@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="General\Classes\" />
+    <Folder Include="General\RequestResponses\" />
+  </ItemGroup>
+
 </Project>
